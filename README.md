@@ -188,22 +188,6 @@ O sistema apresenta os resultados de forma objetiva, mostrando os riscos da miss
 
 ## 11. Integrantes
 
-- Nome completo do integrante 1
-- Nome completo do integrante 2
-- Nome completo do integrante 3
-
-## 12. Vídeo de Demonstração
-
-Link do vídeo no YouTube não listado:
-
-```text
-INSERIR LINK DO VIDEO AQUI
-```
-
-## 13. Repositório
-
-Link do repositório público no GitHub:
-
-```text
-INSERIR LINK DO REPOSITORIO AQUI
-```
+- Julia Nunes Frederici
+- Maria Beatriz
+- Rafael Rafael Rebello
